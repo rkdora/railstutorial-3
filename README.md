@@ -12,12 +12,12 @@
 
 ## 注意
 
-11.4　本番環境でのメール送信
-において、herokuアカウントにクレジットカードを設定していないため、本番環境でユーザーの新規登録ができなくなりました。
-ログインはできます。
-{
-  email: example@railstutorial.org
-  password: foobar
+「11.4　本番環境でのメール送信」  
+において、herokuアカウントにクレジットカードを設定していないため、本番環境でユーザーの新規登録ができなくなりました。  
+ログインはできます。  
+{  
+  email: example@railstutorial.org  
+  password: foobar  
 ｝
 
 開発環境は問題ありません。
